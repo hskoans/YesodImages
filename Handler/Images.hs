@@ -5,5 +5,5 @@ import Import
 getImagesR :: Handler ()
 getImagesR = putStrLn "getting"
 
-postImageR :: Handler ()
-postImageR = putStrLn "posting"
+postImagesR :: Handler ()
+postImagesR = putStrLn "posting"
